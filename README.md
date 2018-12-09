@@ -6,7 +6,7 @@
 - Chen chen
 - Yaqiong Liu
 
-# The data con be obtained from:
+# The data can be obtained from:
 https://www.kaggle.com/harlfoxem/housesalesprediction
 
 This is a dataset about house sales price in King County.
